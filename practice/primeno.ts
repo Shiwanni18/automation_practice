@@ -9,3 +9,4 @@ function prime(n:number):boolean{
 }
 console.log(prime(0));
 
+

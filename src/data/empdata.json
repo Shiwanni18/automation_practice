@@ -1,0 +1,11 @@
+{
+    "employeeName":"arun",
+    "employeeAge":25,
+    "isactivelyemployed":true,
+    "middleName":null,
+    "skills":["testing","playwright","typescript"],
+    "location":{
+        "city":"chennai",
+        "state":"tamilnadu"
+    }
+}
